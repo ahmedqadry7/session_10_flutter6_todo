@@ -1,0 +1,16 @@
+{
+    "taskTitle" : "Task Title",
+    "taskDescription" : "Task Description",
+    "tasks" : "Tasks",
+    "settings" : "Settings",
+    "addNewTask" : "Add New Task",
+    "title" : "Title",
+    "description" : "Description",
+    "addTask" : "Add Task",
+    "selectTime" : "Select Time : ",
+    "language" : "Language",
+    "theme" : "Theme",
+    "editTask" : "Edit Task",
+    "saveChanges" : "Save Changes",
+    "noTasksYet" : "No tasks yet at this day"
+}

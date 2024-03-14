@@ -1,0 +1,16 @@
+{
+    "taskTitle" : "عنوان المهمة",
+    "taskDescription" : "وصف المهمة",
+    "tasks" : "المهمات",
+    "settings" : "الإعدادات",
+    "addNewTask" : "إضافة مهمة جديدة",
+    "title" : "العنوان",
+    "description" : "الوصف",
+    "addTask" : "أضف المهمة",
+    "selectTime" : "اختر الوقت :",
+    "language" : "اللغة",
+    "theme" : "الثمة",
+    "editTask" : "تعديل مهمة",
+    "saveChanges" : "حفظ التعديلات",
+    "noTasksYet" : "لا توجد مهمات حتى الآن في هذا اليوم"
+}
